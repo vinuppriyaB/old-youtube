@@ -1,0 +1,173 @@
+{
+    "channelName":"Mongodb",
+    "email":"mongodb@gmail.com",
+    "password":"mongo",
+    "ChannelMoto":"In this video, we’ll take a deeper look at MongoDB Atlas, our Database-as-a-Service. I’ll show you how to sign up, create your first cluster, load some sample data, and view your data from a really cool VS Code extension. All for FREE!",
+    "subscriber":23,
+    "logo":"https://yt3.ggpht.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s176-c-k-c0x00ffffff-no-rj",
+    "video":[
+    {
+        "id":"1",
+        "title":"MongoDB Explained in 10 Minutes | SQL vs NoSQL | Jumpstart 2021",
+        "timestamp":"Premiered Jul 27, 2021",
+       
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkt40zYUJr5L-pvT49pbsq_wEr4Vz6JJfheg&usqp=CAU",
+        "videoLink":" https://www.youtube.com/embed/RGfFpQF0NpE", 
+        "views":"22139 ",
+        "like":"511",
+        "description":"SQL, NoSQL, Relational, Non-Relational, Table, Collection, Row, Document, Column, Field. What does it all mean??",  
+        "tag":"mongodb"
+    },
+    {
+        "id":"2",
+        "title":"Intro to MongoDB Atlas in 10 mins | Jumpstart 2021",
+        "timestamp":"Premiered Jul 29, 2021",
+       
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9tLuoZ4woFCmN5yWgMpK2xSvMoqLP5G1qUg&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/xrc7dIO_tXk", 
+        "views":22139 ,
+        "like":"511",
+        "description":"In this video, we’ll take a deeper look at MongoDB Atlas, our Database-as-a-Service. I’ll show you how to sign up, create your first cluster, load some sample data, and view your data from a really cool VS Code extension. All for FREE!",
+        "tag":"mongodb"
+    },
+    {
+        "id":"3",
+        "title":"Compass - The GUI For MongoDB in 10 mins | Jumpstart 2021",
+        "timestamp":"Premiered Aug 4, 2021",
+       
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToNvnh10qRPef4kS7-zxz8wjRflOhtyyasUA&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/YBOiX8DwinE", 
+        "views":6172 ,
+        "like":511,
+        "description":"Do you want to quickly explore your MongoDB data? Run ad hoc queries in seconds? Interact with your data with full CRUD functionality? You need Compass, the GUI for MongoDB.",
+        "tag":"mongodb"
+    },
+    {
+        "id":"4",
+        "title":"Serverless Functions Explained | MongoDB Realm Backend-as-a-Service | Jumpstart 2021",
+        "timestamp":"Premiered Aug 11, 2021",
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwxWBYUS-BPr1qY7AtgoZhP5PQhkWZX35PQ&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/Evp3xTzWCu4", 
+        "views":7200,
+        "like":511,
+        "description":"Do you want to quickly and easily build out a backend for your application, including API routes, user authentication, GraphQL, and much more? And do that without hosting your own server? ",
+        "tag":"mongodb"
+    },
+    {
+        "id":"5",
+        "title":"Easy Frontend MongoDB Integration | MongoDB, Next.js, & Tailwind CSS | Jumpstart 2021",
+        "timestamp":"Premiered Aug 23, 2021",
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhoTiQaReyxWJZ7wlf4rIruzEOYefzATGvnA&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/xIrtGeggw0E", 
+        "views":139,
+        "like":511,
+        "description":"Welcome back to the MongoDB Jumpstart series. In this video, we are going to build out the frontend of our e-commerce application in Next.js including all of the components, product pages, and style everything using Tailwind CSS. ",
+        "tag":"mongodb"
+    },
+    {
+        "id":"6",
+        "title":"MongoDB Atlas Search to Easily Find Your Data | Search & Autocomplete Implementation | Jumpstart",
+        "timestamp":"Premiered Sep 8, 2021",
+       
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFP7PFSB1NTgJQJ9ZIukv0fD8EbVoTiqN8mg&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/jnxnhbTO2RA", 
+        "views":3151 ,
+        "like":511,
+        "description":"Welcome back to the MongoDB Jumpstart series. Have you ever wondered how searches work on websites? What about autocomplete? In this video, we are going to implement search and autocomplete in our e-commerce app utilizing MongoDB Atlas Search. ",
+        "tag":"mongodb"
+    }
+   
+    ]
+
+    }
+
+{
+    "channelName":"Dipesh Malvia",
+    "email":"dipesh@gmail.com",
+    "password":"mongo",
+    "ChannelMoto":"Hai guys, This channel is all about to helping you to learn web development skills and techniques in most simplified and fun way."
+    "subscriber":23,
+    "logo":"https://yt3.ggpht.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s176-c-k-c0x00ffffff-no-rj",
+    "video":[
+    {
+        "id":"1",
+        "title":"HTML5 Crash Course for Absolute Beginners [Tutorial]",
+        "timestamp":"Sep 13, 2020",
+       
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-g2GQBnd6I8fQO8eCK_zZuGwsW6fUGqXFg&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/Aj3QFsmsagc", 
+        "views":"22139 ",
+        "like":"511",
+        "description":"In this video you will learn about HTML5. This is a course designed for absolute beginners and cover everything from basic tools setup to HTML 5 semantics and how to build your own profile webpage."
+        "tag":"HTML"
+    },
+    {
+        "id":"2",
+        "title":"CSS Crash Course For Absolute Beginners [Tutorial]",
+        "timestamp":"Sep 20, 2020",
+       
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYxk6nnEGhtR44xkAyFzgD4JVrVarB6bVpw&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/nYsk_U_A_lc", 
+        "views":5510 ,
+        "like":"511",
+        "description":"In this video you will learn about CSS. This is a course designed for absolute beginners and I tried to cover as much as I can CSS properties with examples. We will build CSS cheat sheet that you can keep as a resource and then we will also style our Profile page which we created in out HTML5 ",
+        "tag":"CSS"
+    },
+    {
+        "id":"3",
+        "title":"JavaScript Tutorial For Beginners [Course] | Part 1",
+        "timestamp":"Oct 13, 2020",
+       
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV3o1lNT312vBu3muG2I9WNdynKMFadA5Bbg&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/t6_waVDdG-E", 
+        "views":6172 ,
+        "like":511,
+        "description":"In this video you will learn about JavaScript. This is a course designed for absolute beginners and I tried to cover as much as JavaScript Syntax and Fundamentals."
+        "tag":"JavaScript"
+    },
+    {
+        "id":"4",
+        "title":"JavaScript Tutorial For Beginners [Course] | Part 2",
+        "timestamp":"Oct 16, 2020",
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV3o1lNT312vBu3muG2I9WNdynKMFadA5Bbg&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/LRLMs0TCflE", 
+        "views":3020,
+        "like":121,
+        "description":"In this video you will learn about JavaScript. This is a course designed for absolute beginners and I tried to cover as much as JavaScript Syntax and Fundamentals.",
+         "tag":"JavaScript"
+    },
+    {
+        "id":"5",
+        "title":"JavaScript Tutorial For Beginners [Course] | Part 3",
+        "timestamp":"Oct 23, 2020",
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV3o1lNT312vBu3muG2I9WNdynKMFadA5Bbg&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/sqpy36PNAdk", 
+        "views":2194,
+        "like":511,
+        "description":"In this video you will learn about JavaScript. This is a course designed for absolute beginners and I tried to cover as much as JavaScript Syntax and Fundamentals.",
+         "tag":"JavaScript"
+    },
+    {
+        "id":"6",
+        "title":"JavaScript this Keyword in 12 Minutes | JavaScript Tutorials",
+        "timestamp":"Nov 6, 2020",
+       
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJk1i0k6n7Fh1TuJPn4pwM3GszicpbX8AFGw&usqp=CAU",
+        "videoLink":"https://www.youtube.com/embed/S2pBGSeUFCk", 
+        "views":3151 ,
+        "like":511,
+        "description":"In this video we are going to learn about "this" keyword in JavaScript. This is one such topic where most developers gets tricked in interviews. We are going to look few examples and understand the behavior of this keyword in different scenarios. We will also see how we can stabilize the context and value of this in our objects.",  "tag":"mongodb"
+        "tag":"JavaScript"
+    }
+   
+    ]
+
+    }
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Aj3QFsmsagc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/nYsk_U_A_lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/t6_waVDdG-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/LRLMs0TCflE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/sqpy36PNAdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/S2pBGSeUFCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
