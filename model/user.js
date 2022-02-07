@@ -1,3 +1,4 @@
+const { object } = require("joi");
 const mongoose=require("mongoose");
 const Schema= mongoose.Schema;
 
@@ -23,10 +24,10 @@ const userSchema=new Schema({
         minLength:3,
         required:true,
     },
-    subcription:{
-        type:String,
-        
-    }
+    profilePic:{
+        type:String
+    },
+    subscribedChannel:[{}]
 })
 const User=mongoose.model("User",userSchema,"user");
 module.exports=User;

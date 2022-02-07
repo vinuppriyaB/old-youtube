@@ -1,0 +1,360 @@
+    {
+
+        "channelName":"Mongodb",
+        "email":"mongodb@gmail.com",
+        "password":"mongo",
+        "ChannelMoto":"In this video, we’ll take a deeper look at MongoDB Atlas, our Database-as-a-Service. I’ll show you how to sign up, create your first cluster, load some sample data, and view your data from a really cool VS Code extension. All for FREE!",
+        "subscriber":23,
+        "logo":"https://yt3.ggpht.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s176-c-k-c0x00ffffff-no-rj",
+        "video":[
+        {
+            "id":"1",
+            "title":"MongoDB Explained in 10 Minutes | SQL vs NoSQL | Jumpstart 2021",
+            "timestamp":"Jul 27, 2021",
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkt40zYUJr5L-pvT49pbsq_wEr4Vz6JJfheg&usqp=CAU",
+            "videoLink":" https://www.youtube.com/embed/RGfFpQF0NpE", 
+            "views":22139,
+            "like":511,
+            "dislike":23,
+            "description":"SQL, NoSQL, Relational, Non-Relational, Table, Collection, Row, Document, Column, Field. What does it all mean??",  
+            "tag":"mongodb"
+
+        },
+        {
+            "id":"2",
+            "title":"Intro to MongoDB Atlas in 10 mins | Jumpstart 2021",
+            "timestamp":"Premiered Jul 29, 2021",
+        
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9tLuoZ4woFCmN5yWgMpK2xSvMoqLP5G1qUg&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/xrc7dIO_tXk", 
+            "views":22139 ,
+            "like":511,
+            "dislike":23,
+            "description":"In this video, we’ll take a deeper look at MongoDB Atlas, our Database-as-a-Service. I’ll show you how to sign up, create your first cluster, load some sample data, and view your data from a really cool VS Code extension. All for FREE!",
+            "tag":"mongodb"
+        },
+        {
+            "id":"3",
+            "title":"Compass - The GUI For MongoDB in 10 mins | Jumpstart 2021",
+            "timestamp":"Aug 4, 2021",
+        
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToNvnh10qRPef4kS7-zxz8wjRflOhtyyasUA&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/YBOiX8DwinE", 
+            "views":6172 ,
+            "like":511,
+            "dislike":23,
+            "description":"Do you want to quickly explore your MongoDB data? Run ad hoc queries in seconds? Interact with your data with full CRUD functionality? You need Compass, the GUI for MongoDB.",
+            "tag":"mongodb"
+        },
+        {
+            "id":"4",
+            "title":"Serverless Functions Explained | MongoDB Realm Backend-as-a-Service | Jumpstart 2021",
+            "timestamp":"Premiered Aug 11, 2021",
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwxWBYUS-BPr1qY7AtgoZhP5PQhkWZX35PQ&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/Evp3xTzWCu4", 
+            "views":7200,
+            "like":511,
+            "dislike":23,
+            "description":"Do you want to quickly and easily build out a backend for your application, including API routes, user authentication, GraphQL, and much more? And do that without hosting your own server? ",
+            "tag":"mongodb"
+        },
+        {
+            "id":"5",
+            "title":"Easy Frontend MongoDB Integration | MongoDB, Next.js, & Tailwind CSS | Jumpstart 2021",
+            "timestamp":"Aug 23, 2021",
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhoTiQaReyxWJZ7wlf4rIruzEOYefzATGvnA&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/xIrtGeggw0E", 
+            "views":139,
+            "like":511,
+            "dislike":23,
+            "description":"Welcome back to the MongoDB Jumpstart series. In this video, we are going to build out the frontend of our e-commerce application in Next.js including all of the components, product pages, and style everything using Tailwind CSS. ",
+            "tag":"mongodb"
+        },
+        {
+            "id":"6",
+            "title":"MongoDB Atlas Search to Easily Find Your Data | Search & Autocomplete Implementation | Jumpstart",
+            "timestamp":"Sep 8, 2021",
+        
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFP7PFSB1NTgJQJ9ZIukv0fD8EbVoTiqN8mg&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/jnxnhbTO2RA", 
+            "views":3151 ,
+            "like":511,
+            "dislike":23,
+            "description":"Welcome back to the MongoDB Jumpstart series. Have you ever wondered how searches work on websites? What about autocomplete? In this video, we are going to implement search and autocomplete in our e-commerce app utilizing MongoDB Atlas Search. ",
+            "tag":"mongodb"
+        }
+    
+        ]
+
+    }
+
+
+
+   {
+        "channelName":"Top coder",
+        "email":"topcoder@gmail.com",
+        "password":"mongo",
+        "ChannelMoto":"This channel is my attempt to teach the world the wonders of coding. Learning to write code is a doorway to being able to build truly great and world changing products & services. I'm just happy to be able to do my part in training the next generation of amazing devs!",
+        "subscriber":23,
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztrwtZx06VaSnqZrYvq_otUW-L9PsXaevnQ&usqp=CAU",
+        "video":[
+        {
+            "id":"1",
+            "title":"Introduction | Python | Tutorial 1",
+            "timestamp":"Jul 27, 2021",
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YkpCjcTTwxOL6f2lYXPGitC1nPRH-ETDOw&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/sfhhk8m4mcQ?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW", 
+            "views":22139,
+            "like":511,
+            "dislike":23,
+            "description":"Giraffe Academy is rebranding! I've decided to re-focus the brand of this channel to highlight myself as a developer and teacher! The newly minted Mike Dane channel will have all the same content, with more to come in the future!",  
+            "tag":"Python"
+        },
+        {
+            "id":"2",
+            "title":"Installing Python & PyCharm | Python | Tutorial 2",
+            "timestamp":"Oct 22, 2017",
+        
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTchZPH_WGwvl1SXC3n7JrRZjmEMxg1iiU6g&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/HJj9CP-qEIM?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW", 
+            "views":22139 ,
+            "like":511,
+            "dislike":23,
+            "description":"Giraffe Academy is rebranding! I've decided to re-focus the brand of this channel to highlight myself as a developer and teacher! The newly minted Mike Dane channel will have all the same content, with more to come in the future!",
+            "tag":"Python"
+        },
+        {
+            "id":"3",
+            "title":"Setup & Hello World | Python | Tutorial 3",
+            "timestamp":"Oct 22, 2017",
+        
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_8vteI05Yn8ZFuZSkw_00vWNqbN3ZeGb0Q&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/yuc3RQ5a6Jg?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW", 
+            "views":6172 ,
+            "like":511,
+            "dislike":23,
+            "description":"This video is one in a series of videos where we'll be looking at programming in python. The course is designed for new programmers, and will introduce common programming topics using the python language.",
+            "tag":"Python"
+        },
+        {
+            "id":"4",
+            "title":"Drawing a Shape | Python | Tutorial 4",
+            "timestamp":"Oct 22, 2017",
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6oZdgJwd_sW8j-Rcddv_1EYcy8VomvY66A&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/NCOjp_WNfFw?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW", 
+            "views":7200,
+            "like":511,
+            "dislike":23,
+            "description":"Throughout the course we'll be looking at various topics including variables, lists, tuples, loops, conditionals, object orientation, and much more.  ",
+            "tag":"Python"
+        },
+        {
+            "id":"5",
+            "title":"Variables & Data Types | Python | Tutorial 5",
+            "timestamp":"Oct 22, 2017",
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShUVD2H2gY4dBr2r2lUCYaD9UYleFHe7R5nIAirUwqTBfid0vhcem9BYdQRzCU2P7ePII&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/gmiB4xQ-BKw?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW", 
+            "views":139,
+            "like":511,
+            "dislike":23,
+            "description":"Throughout the course we'll be looking at various topics including variables, lists, tuples, loops, conditionals, object orientation, and much more.",
+            "tag":"Python"
+       },
+        {
+            "id":"6",
+            "title":"Working With Strings | Python | Tutorial 6",
+            "timestamp":"Oct 22, 2017",
+        
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVg2khdHzaHvCabuq8EMUCJYsE9P1VtL91V1nuj8gkIvFRW3eBUfXZ-Bp7J5sqKS3Tq1Y&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/LZLGt2GWFt8?list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW", 
+            "views":3151 ,
+            "like":511,
+            "dislike":23,
+            "description":"This video is one in a series of videos where we'll be looking at programming in python. The course is designed for new programmers, and will introduce common programming topics using the python language.",
+            "tag":"Python"
+       }
+    
+        ]
+
+    } 
+
+
+
+    {
+        "channelName":"Top coder",
+        "email":"topcoder@gmail.com",
+        "password":"mongo",
+        "ChannelMoto":"",
+        "subscriber":23,
+        "logo":"",
+        "video":[
+        {
+            "id":"1",
+            "title":"ReactJS Tutorial - 1 - Introduction",
+            "timestamp":"Oct 22, 2018",
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKdtVR40VAXFZvb9YbKtOFgJ0GkaXMZpEjQ&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3", 
+            "views":22139,
+            "like":511,
+            "dislike":23,
+            "description":"React has a component based architecture. This lets you break down your application into small encapsulated parts which can then be composed to make more complex UI.",  
+            "tag":"ReactJS"
+         },
+        {
+            "id":"2",
+            "title":"ReactJS Tutorial - 2 - Hello World",
+            "timestamp":"Oct 29, 2018",
+        
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31DIWybwZ7zAW5NatjEZ1roMXNvtogaribQ&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/9hb_0TZ_MVI?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3", 
+            "views":22139 ,
+            "like":511,
+            "dislike":23,
+            "description":"Create React App is a comfortable environment for learning React, and is the best way to start building a new single-page application in React.",
+            "tag":"ReactJS"
+         },
+        {
+            "id":"3",
+            "title":"ReactJS Tutorial - 3 - Folder Structure",
+            "timestamp":"Oct 29, 2018",
+        
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRavJZ-fJq0ojYPgzeL15VKWDVsxmXJddQg&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/9VIiLJL0H4Y?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3", 
+            "views":6172 ,
+            "like":511,
+            "dislike":23,
+            "description":"Exploring the folder structure of a Create React App generated project.",
+            "tag":"ReactJS"
+        },
+        {
+            "id":"4",
+            "title":"ReactJS Tutorial - 4 - Components",
+            "timestamp":"Oct 29, 2018",
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFqVwxm8e2sC1GJUYdN1Ycy5lYPGTbT-6rRGayQh1HDivav6x0LyiO7VUu0oeKa_ov-8&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/Y2hgEGPzTZY?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3", 
+            "views":7200,
+            "like":511,
+            "dislike":23,
+            "description":"There are two types of components - Stateless Functional Components and Stateful Class Components",
+            "tag":"ReactJS"
+       },
+        {
+            "id":"5",
+            "title":"ReactJS Tutorial - 5 - Functional Components",
+            "timestamp":"Oct 29, 2018",
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5zQQfgYdauP902KBIcvqGVfUGvUT4gyCJw&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/Cla1WwguArA?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3", 
+            "views":139,
+            "like":511,
+            "dislike":23,
+            "description":"The simplest way to define a component is to write a JavaScript function. A valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React element. We call such components “function components” because they are literally JavaScript functions.",
+            "tag":"ReactJS"
+       },
+        {
+            "id":"6",
+            "title":"ReactJS Tutorial - 6 - Class Components",
+            "timestamp":"Oct 29, 2018",
+        
+            "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9KIsXPlp2szq4KRJtyg_D8k5jXnVsPZDNA&usqp=CAU",
+            "videoLink":"https://www.youtube.com/embed/lnV34uLEzis?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3", 
+            "views":3151 ,
+            "like":511,
+            "dislike":23,
+            "description":"Class syntax is one of the most common ways to define a React component. While more verbose than the functional syntax, it offers more control in the form of lifecycle hooks.
+                            Creating a class component is pretty simple; just define a class that extends Component and has a render function.",
+            "tag":"ReactJS"
+         }
+    
+        ]
+
+    } 
+
+
+    {
+        "channelName":"Top coder",
+        "email":"topcoder@gmail.com",
+        "password":"mongo",
+        "ChannelMoto":"",
+        "subscriber":23,
+        "logo":"",
+        "video":[
+        {
+            "id":"1",
+            "title":"",
+            "timestamp":"Jul 27, 2021",
+            "imageLink":"",
+            "videoLink":"", 
+            "views":22139,
+            "like":511,
+            "dislike":23,
+            "description":"",  
+            "tag":""
+
+        },
+        {
+            "id":"2",
+            "title":"",
+            "timestamp":"",
+        
+            "imageLink":"",
+            "videoLink":"", 
+            "views":22139 ,
+            "like":511,
+            "dislike":23,
+            "description":"",
+            "tag":""
+        },
+        {
+            "id":"3",
+            "title":"",
+            "timestamp":"",
+        
+            "imageLink":"",
+            "videoLink":"", 
+            "views":6172 ,
+            "like":511,
+            "dislike":23,
+            "description":"",
+            "tag":""
+        },
+        {
+            "id":"4",
+            "title":"",
+            "timestamp":"",
+            "imageLink":"",
+            "videoLink":"", 
+            "views":7200,
+            "like":511,
+            "dislike":23,
+            "description":"",
+            "tag":""
+        },
+        {
+            "id":"5",
+            "title":"",
+            "timestamp":"",
+            "imageLink":"",
+            "videoLink":"", 
+            "views":139,
+            "like":511,
+            "dislike":23,
+            "description":" ",
+            "tag":""
+        },
+        {
+            "id":"6",
+            "title":"",
+            "timestamp":"",
+        
+            "imageLink":"",
+            "videoLink":"", 
+            "views":3151 ,
+            "like":511,
+            "dislike":23,
+            "description":"",
+            "tag":"mongodb"
+        }
+    
+        ]
+
+    } 
