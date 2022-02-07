@@ -8,13 +8,16 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var channelRouter = require('./routes/channel');
 var registerRouter = require('./routes/register');
+const dotenv = require('dotenv');
+
+
 
 
 var cors = require('cors')
 
  
 
-
+dotenv.config();
 var app = express();
 mongo.connect();
 // view engine setup
@@ -50,3 +53,5 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+const PORT = process.env.PORT || 8000;
+app.listen(PORT, () => console.log("the server is started in", PORT));
